@@ -1,6 +1,6 @@
 # Heart_Disease_Analysis_Hackathon
 A brief analysis done using 2 classfication models:
- 1.Logictic Regression Model
+ 1.LogiStic Regression Model
  2.Random Forest Regression Model
  
  Here are the plots that are not displayed in the above .ipynb file
